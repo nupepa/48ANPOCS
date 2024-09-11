@@ -1,0 +1,2 @@
+Os arquvios deste GitHub permitem aos interessados conhecerem os registros anonimizados trabalhados neste recorte do estudo.
+A imagem corresponde à correlação de termos observados nos três eixos analíticos e foi gerada com suporte de ferramenta de IA (ChatGPT 4o), a correlação feita por termos em IA demonstrou-se bastante limitada e não captou nuances que a análise humana permitiu observar, de todo modo o exercício permitiu observar que os termos obtidos pelas sugestões de vídeos do YouTube incluiam termos apelativas, violentos e impactantes.
